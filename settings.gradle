@@ -1,1 +1,1 @@
-include ':app', ':gwszdepthshadow', ':gwsripple', ':gwseasing'
+include ':app', ':gwszdepthshadow', ':gwsripple', ':gwseasing', ':gwsviewanimations'
