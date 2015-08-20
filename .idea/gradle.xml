@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/gwseasing" />
             <option value="$PROJECT_DIR$/gwsripple" />
+            <option value="$PROJECT_DIR$/gwstransitions" />
             <option value="$PROJECT_DIR$/gwsviewanimations" />
             <option value="$PROJECT_DIR$/gwszdepthshadow" />
           </set>

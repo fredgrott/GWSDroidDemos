@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwseasing/gwseasing.iml" filepath="$PROJECT_DIR$/gwseasing/gwseasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsripple/gwsripple.iml" filepath="$PROJECT_DIR$/gwsripple/gwsripple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gwstransitions/gwstransitions.iml" filepath="$PROJECT_DIR$/gwstransitions/gwstransitions.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsviewanimations/gwsviewanimations.iml" filepath="$PROJECT_DIR$/gwsviewanimations/gwsviewanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwszdepthshadow/gwszdepthshadow.iml" filepath="$PROJECT_DIR$/gwszdepthshadow/gwszdepthshadow.iml" />
     </modules>
